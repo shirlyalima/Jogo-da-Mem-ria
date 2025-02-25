@@ -1,4 +1,4 @@
-## Jogo da Memória
+# Jogo da Memória 🧠
 Um jogo da memória interativo desenvolvido com HTML, CSS e JavaScript. Temática espacial com desenhos em aquarela. Teste sua memória e encontre os pares de cartas para vencer o jogo!
 ![](https://github.com/shirlyalima/Jogo-da-Mem-ria/blob/95edf7ae15c1fbfcf25b84b4382187bc3d221867/exemplo%20do%20projeto.gif)
 
